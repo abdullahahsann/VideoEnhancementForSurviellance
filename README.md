@@ -1,7 +1,7 @@
 #  Realtime Video Enhancement For Surviellance using Machine Learning
  
 *This is for the moment 40% implementation of the project for my BCS in Computer Science's Final Year Project*
-### Table of Contents
+## Table of Contents
 - [Introduction](#introduction)
 - [Problem Solution](#problem-solution)
 - [Advantages of proposed system](#advantages-of-proposed-system)
