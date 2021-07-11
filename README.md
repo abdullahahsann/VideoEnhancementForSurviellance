@@ -1,6 +1,7 @@
 #  Realtime Video Enhancement For Surviellance using Machine Learning
  
 *This is, for the moment, 40% implementation of the project for my BCS in Computer Science's Final Year Project*
+*For the moment it includes the Dehazer-Model along with a simple Desktop Application (coded in pyQt) in which the model has been implemented along with an open-cv simple object detection model*
 ## Table of Contents
 - [Introduction](#introduction)
 - [Problem Solution](#problem-solution)
