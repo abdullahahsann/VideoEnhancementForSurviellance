@@ -11,6 +11,7 @@ Though it's still under development, it would not have been possible without my 
 - [Advantages of proposed system](#advantages-of-proposed-system)
 - [Results](#results)
 - [How to test yourself](#how-to-test-yourself)
+- [Papers that have helped me a lot](#papers-that-have-helped-me-a-lot)
 
   
 ## Introduction
@@ -58,3 +59,8 @@ For our enhanced video output feed, we are providing three different Machine Lea
  
    For testing the dehazer model independently. You can run the evaluation.py file in the Evaluation directory in the Dehazer folder. I've made functions to evaluate video, custom video or a set of images. Just run the appropriate function and it'll give the result.
    If there's any issue at all or you just wanna ask something do let me know :D.
+
+ ## Papers that have helped me a lot
+ 
+  1. An All-in-One Network for Dehazing and Beyond (https://arxiv.org/abs/1707.06543)
+  2. Generic Model-Agnostic Convolutional Neural Network for Single Image Dehazing (https://arxiv.org/abs/1810.02862)
