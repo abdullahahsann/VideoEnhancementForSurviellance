@@ -51,7 +51,7 @@ For our enhanced video output feed, we are providing three different Machine Lea
 
  
  ## How to test yourself
- If you want to test the model. The simplest way is to run the Desktop application (though it's still not refined), as it will run in real time. Simple run the main.py file in that folder. You might have to change the value of cv2.VideoCapture in the ui_main.py file at line 745. Change the 1 to 0 or 2 and try again if you are not getting any video feed. If you want to procecss a custom video, put it in the same directory and put the name of that video inside brackets with " ".
+ If you want to test the model. The simplest way is to run the Desktop application (though it's still not refined), as it will run in real time. Simply run the main.py file in that folder. You might have to change the value of cv2.VideoCapture in the ui_main.py file at line 745. Change the 1 to 0 or 2 and try again if you are not getting any video feed. If you want to procecss a custom video, put it in the same directory and put the name of that video inside brackets with " ".
  
    For testing the dehazer model independently. You can run the evaluation.py file in the Evaluation directory in the Dehazer folder. I've made functions to evaluate video, custom video or a set of images. Just run the appropriate function and it'll give the result.
    If there's any issue at all or you just wanna ask something do let me know :D.
