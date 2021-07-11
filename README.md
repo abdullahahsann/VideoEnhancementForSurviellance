@@ -3,7 +3,7 @@
 *This is, for the moment, 40% implementation of the project for my BCS in Computer Science's Final Year Project.*
 *As of now it includes the Dehazer-Model along with a simple Desktop Application (coded in pyQt) in which the model has been implemented along with an open-cv simple object detection model*
 
-Though it's still under development, it would not have been possible without my colleagues and especially our supervisor Dr Sohaib Ali Syed (sohaibali01). 
+Though it's still under development, it would not have been possible without my colleagues and especially our supervisor Dr Sohaib Ali Syed. 
 
 ## Table of Contents
 - [Introduction](#introduction)
