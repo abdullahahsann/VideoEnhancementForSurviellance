@@ -35,5 +35,19 @@ For our enhanced video output feed, we are providing three different Machine Lea
  
  ## Results
  
+ VALIDATION SET:
+ ![Screenshot from 2021-07-11 19-28-33](https://user-images.githubusercontent.com/62840383/125199229-aa8c2500-e27e-11eb-92a6-da1998455778.png)
+![Screenshot from 2021-07-11 19-28-45](https://user-images.githubusercontent.com/62840383/125199235-ac55e880-e27e-11eb-9776-33c42374f632.png)
+
+ 
+ 
+ IMAGES FROM GOOGLE:
+ 
+ ![Screenshot from 2021-07-11 19-27-19](https://user-images.githubusercontent.com/62840383/125199189-7add1d00-e27e-11eb-89d4-a11858bd9a00.png)
+![Screenshot from 2021-07-11 19-26-51](https://user-images.githubusercontent.com/62840383/125199198-829cc180-e27e-11eb-81e2-8f61cecf530b.png)
+![Screenshot from 2021-07-11 19-26-06](https://user-images.githubusercontent.com/62840383/125199201-84668500-e27e-11eb-925a-63ca47833a55.png)
+![Screenshot from 2021-07-11 19-27-45](https://user-images.githubusercontent.com/62840383/125199207-8defed00-e27e-11eb-95f2-3839d547ed5a.png)
+
+ 
  ## How to test yourself
  
