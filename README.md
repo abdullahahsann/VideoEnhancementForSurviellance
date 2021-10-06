@@ -5,8 +5,6 @@
 
 *UPDATE Oct 2021: Low light enhancement model added. Readme will be updated with test results and credits.*
 
-Though it's still under development, it would not have been possible without my colleagues (Adil Shamim & Auzair Ahmed Khalid).
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Problem Solution](#problem-solution)
@@ -45,12 +43,16 @@ For our enhanced video output feed, we are providing three different Machine Lea
  These all results also work on real time, videos will be uploaded soon.
  
  ### Low Light Enhancement
-![image](https://user-images.githubusercontent.com/62840383/136186005-9a45ee87-2383-41d0-80ed-e9afcf243e77.png)
-![image](https://user-images.githubusercontent.com/62840383/136186070-8a890d4d-34a9-4e3f-9d11-c51906ac9b16.png)
+![image](https://user-images.githubusercontent.com/62840383/136186439-6778036e-4cd7-4c7f-8d24-212484d73152.png)
+
+![image](https://user-images.githubusercontent.com/62840383/136186349-c16e0ac6-7f29-4962-befd-54d638cbbc52.png)
+
  
  ### Dehazing
  TEST SET:
  ![Screenshot from 2021-07-11 19-28-33](https://user-images.githubusercontent.com/62840383/125199229-aa8c2500-e27e-11eb-92a6-da1998455778.png)
+ 
+ 
 ![Screenshot from 2021-07-11 19-28-45](https://user-images.githubusercontent.com/62840383/125199235-ac55e880-e27e-11eb-9776-33c42374f632.png)
 
  
