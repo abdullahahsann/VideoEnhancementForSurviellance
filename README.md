@@ -3,6 +3,8 @@
 *This is, for the moment, 40% implementation of the project for my BCS in Computer Science's Final Year Project.*
 *As of now it includes the Dehazer-Model, LLE-Model along with a simple Desktop Application (coded in pyQt) in which the model has been implemented along with an open-cv simple object detection model*
 
+The project is a combined effort of mine and my group mates: Adil Shamim and Auzair Ahmed.
+
 *UPDATE Oct 2021: Low light enhancement model added. Readme will be updated with test results and credits.*
 
 ## Table of Contents
