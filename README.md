@@ -9,6 +9,8 @@
 - [How to test yourself](#how-to-test-yourself)
 - [Papers that have helped me a lot](#papers-that-have-helped-me-a-lot)
   
+## 
+Special thanks to my supervisors: DR. Syed Sohaib Ali & Dr. Akber Abid Gardezi without whose guidance this wouldn't had been possible.
 ## Introduction
 Under bad weather conditions, such as fog and haze, the quality of images degrades severely due to the inﬂuence of particles in the atmosphere. Suspended particles will scatter light and result in attenuation of reﬂected light from the scene and the scattered atmospheric light will also mix with the light received by the camera and change the image contrast and color. In surveillance systems this can obstruct the whole feed in weathers as such, and infiltrations can be done by potential intruders, using this to their advantage. And we are not just referring to home surveillance, but on industry level. Clear video feed will help in smooth running of operations even during the worst of weathers.
 
