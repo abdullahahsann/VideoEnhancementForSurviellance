@@ -8,7 +8,7 @@
 - [Desktop Application](#desktop-application)
 - [How to test yourself](#how-to-test-yourself)
 - [Papers that have helped me a lot](#papers-that-have-helped-me-a-lot)
-- [Code)(#code)
+- [Code](#code)
   
 ## 
 Special thanks to my supervisors: DR. Syed Sohaib Ali & Dr. Akber Abid Gardezi without whose guidance this wouldn't had been possible.
