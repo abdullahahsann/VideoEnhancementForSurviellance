@@ -62,6 +62,7 @@ For our enhanced video output feed, we are providing three different Machine Lea
 ![Screenshot from 2021-07-11 19-27-45](https://user-images.githubusercontent.com/62840383/125199207-8defed00-e27e-11eb-95f2-3839d547ed5a.png)
 
 ## Desktop Application
+(Coded in PyQt)
 ### Main Menu
 
 ![Capdcdcdcdture](https://user-images.githubusercontent.com/62840383/146819162-cbaa496c-c9a2-4d6a-98b1-135a4edd0fa1.PNG)
