@@ -8,6 +8,7 @@
 - [Desktop Application](#desktop-application)
 - [How to test yourself](#how-to-test-yourself)
 - [Papers that have helped me a lot](#papers-that-have-helped-me-a-lot)
+- [Code)(#code)
   
 ## 
 Special thanks to my supervisors: DR. Syed Sohaib Ali & Dr. Akber Abid Gardezi without whose guidance this wouldn't had been possible.
@@ -103,3 +104,9 @@ For our enhanced video output feed, we are providing three different Machine Lea
    2. Deep Learning: (https://www.coursera.org/specializations/deep-learning) - best courser to start ML journey
    3. Deep Learning Concepts: (https://www.youtube.com/c/deeplizard) - best place for ML DL Concepts 
    4. Deep Learning Practical: (https://www.youtube.com/c/sentdex/featured) - the person who started it all for me :D 
+
+ 
+ ## Code
+   Code for the Desktop Application as well as the ML models can be requested.
+   Kindly reach me on my email :D.
+
