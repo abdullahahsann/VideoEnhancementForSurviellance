@@ -6,6 +6,7 @@
 - [Problem Solution](#problem-solution)
 - [Advantages of proposed system](#advantages-of-proposed-system)
 - [Results](#results)
+- [Videos for Low Light Enhacnement](#videos-for-low-light-enhacnement)
 - [Desktop Application](#desktop-application)
 - [How to test yourself](#how-to-test-yourself)
 - [Papers that have helped me a lot](#papers-that-have-helped-me-a-lot)
@@ -62,7 +63,7 @@ For our enhanced video output feed, we are providing three different Machine Lea
 ![Screenshot from 2021-07-11 19-26-06](https://user-images.githubusercontent.com/62840383/125199201-84668500-e27e-11eb-925a-63ca47833a55.png)
 ![Screenshot from 2021-07-11 19-27-45](https://user-images.githubusercontent.com/62840383/125199207-8defed00-e27e-11eb-95f2-3839d547ed5a.png)
 
-Videos for Low Light Enhacnement:
+## Videos for Low Light Enhacnement:
 
 Night Parking Lot:
 https://user-images.githubusercontent.com/62840383/191882489-a15aea75-4ba9-40e7-942c-b2f1905beaf0.mp4
