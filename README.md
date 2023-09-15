@@ -28,7 +28,7 @@ For our enhanced video output feed, we are providing three different Machine Lea
  
  We have a desktop application system (coded in PyQt) for the user through which they’ll be getting the video feed of their surveillance camera. The user will have options to apply any of the filter using our models to enhance the output quality in bad weather conditions. The history of the video will also be saved. And user will have access to it and can go back and review the past footage. And if needs be, apply any filter during any point in time of the video.
  
- For ouR automated security surveillance, the user will define which camera feeds need to be checked for any unusual activity. And from the choice of filters: Human detection or Movement detection, pick one. And based on the user’s choice the AI will detect any human related activity, or any activity at all whatsoever. And if anything is detected will instantly report to the user.
+ For our automated security surveillance, the user will define which camera feeds need to be checked for any unusual activity. And from the choice of filters: Human detection or Movement detection, pick one. And based on the user’s choice the AI will detect any human related activity, or any activity at all whatsoever. And if anything is detected will instantly report to the user.
  
  ## Advantages of proposed system
  
@@ -40,7 +40,7 @@ For our enhanced video output feed, we are providing three different Machine Lea
  
  ## Results
  
- These all results also work on real time, videos will be uploaded soon.
+ These all results also work on real time, videos will be uploaded soon. (2 test videos are available after the images section though)
  
  ### Low Light Enhancement
 ![image](https://user-images.githubusercontent.com/62840383/136186439-6778036e-4cd7-4c7f-8d24-212484d73152.png)
